@@ -1,0 +1,5 @@
+js program to convert temp from celsi to fahren and vice versa.
+The unit must show.
+
+js program to check whether 3 given integer values are in the range 1 - 50(inclusive).
+return true if one or more is in the said range, otherwise return false.

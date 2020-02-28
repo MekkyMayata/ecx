@@ -1,0 +1,3 @@
+a fxn to add all the values in a given Array
+
+-an asynchronous fxn using async/await in a try/catch block that converts a string to  a number/ resolves the error if any occur

@@ -1,0 +1,1 @@
+Using the npm package is array, check if a given variable is an array and return the result
