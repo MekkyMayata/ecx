@@ -1,0 +1,12 @@
+1. declare an object variable with keys; name and password inside a db.js file.
+Export the variable.
+Create and open a new file called quiz2.js
+import the variable from db.js
+Using bcrypt, write a function that checks a given name and password against the one in the db file
+
+
+2. Write the following in a readMe file:
+Difference between http and https
+Http methods
+API
+Difference between SOAP and REST API
